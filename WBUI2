@@ -1,0 +1,83 @@
+{
+  "WBUI2": {
+    "settings": {
+        "OpenButton": 0,
+        "HideIcon": false,
+        "HideIconAfter": 60,
+        "IconURL": "https://i.imgur.com/XggRCPN.png",
+        "OpenOnStart": true,
+        "OpenOnStartOnlyNewPlayers": false,
+        "UpdateInterval": 1
+      },
+    "tabs": [
+      {
+        "tab1": {
+          "layout": 1,
+          "buttontext": "Welcome",
+          "title1": "Welcome to GildedARK!",
+          "text1": "Welcome to GildedARK!",
+          "imageurl": "https://i.imgur.com/XggRCPN.png"
+        }
+      },
+      {
+        "tab2": {
+          "layout": 2,
+          "buttontext": "2 Box layout",
+          "title1": "Left title",
+          "title2": "Right title",
+          "text1": "This text goes into the left box",
+          "text2": "This text goes into the right box",
+          "imageurl": ""
+        }
+      },
+      {
+        "tab3": {
+          "layout": 3,
+          "buttontext": "3 Box layout",
+          "title1": "Left title",
+          "title2": "Top right title",
+          "title3": "Bottom left title",
+          "text1": "This text goes into the left box",
+          "text2": "This text goes into the top right box",
+          "text3": "This text goes into the bottom right box",
+          "imageurl": ""
+        }
+      },
+      {
+        "tab4": {
+          "layout": 4,
+          "buttontext": "4 box layout",
+          "title1": "Top left title",
+          "title2": "Top right title",
+          "title3": "bottom left title",
+          "title4": "bottom right title",
+          "text1": "This text goes into the top left box",
+          "text2": "This text goes into the top right box",
+          "text3": "This text goes into the bottom left box",
+          "text4": "This text goes into the bottom right box",
+          "imageurl": ""
+        }
+      }
+    ],
+    "links": [
+      {
+        "link1": {
+          "text": "Join Discord Community",
+          "url": "https://discord.gg/gildedrp"
+        }
+      },
+      {
+        "link2": {
+          "text": "Link to discord",
+          "url": "https://example.com/link2"
+        }
+      },
+      {
+        "link3": {
+          "text": "Link to google",
+          "url": "https://google.com"
+        }
+      }
+    ]
+  }
+}
